@@ -1,5 +1,7 @@
 # Repositório de Códigos Resolvidos
 
+![CodeWars](https://www.codewars.com/users/GaberRB/badges/large)
+
 Esse repositório é destinado a armazenar os códigos resolvidos nos sites CodeWars (https://www.codewars.com) e HackerRank (https://www.hackerrank.com/). 
 
 Os códigos estão organizados por linguagem de programação e estão identificados pelo nome do desafio correspondente.
